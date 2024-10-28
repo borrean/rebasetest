@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f99e44e-a35e-4beb-a993-f60a3f69f3c3" name="Changes" comment="12" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="öööoooööö" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;borrean&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/borrean/rebasetest.git&quot;,
+    &quot;accountId&quot;: &quot;c67fe8e0-5995-4bea-b4de-78bd2351e3ca&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2jgt7Zj4BDXRchGA45bYuuc5zAt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "kuka",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/dinoletic/IdeaProjects/rebasetest3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="rebasetest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="rebasetest" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f99e44e-a35e-4beb-a993-f60a3f69f3c3" name="Changes" comment="" />
+      <created>1721820380750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721820380750</updated>
+      <workItem from="1721820381861" duration="6357000" />
+      <workItem from="1721826819899" duration="3179000" />
+      <workItem from="1721907441512" duration="3000" />
+      <workItem from="1721908787323" duration="4192000" />
+      <workItem from="1721997545832" duration="2589000" />
+      <workItem from="1722248113292" duration="3325000" />
+      <workItem from="1722341639000" duration="210000" />
+      <workItem from="1723473688253" duration="9000" />
+      <workItem from="1723473702937" duration="1623000" />
+      <workItem from="1723540576146" duration="6000" />
+      <workItem from="1726215500833" duration="1124000" />
+      <workItem from="1729597019332" duration="217000" />
+      <workItem from="1729771701045" duration="20000" />
+      <workItem from="1730115679731" duration="107000" />
+    </task>
+    <task id="LOCAL-00001" summary="aaadd">
+      <option name="closed" value="true" />
+      <created>1721821429219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721821429219</updated>
+    </task>
+    <task id="LOCAL-00002" summary="12">
+      <option name="closed" value="true" />
+      <created>1722249690528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722249690528</updated>
+    </task>
+    <task id="LOCAL-00003" summary="12">
+      <option name="closed" value="true" />
+      <created>1726215608573</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726215608573</updated>
+    </task>
+    <task id="LOCAL-00004" summary="12">
+      <option name="closed" value="true" />
+      <created>1729597050740</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729597050740</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aaadd" />
+    <MESSAGE value="11" />
+    <MESSAGE value="12" />
+    <option name="LAST_COMMIT_MESSAGE" value="12" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
